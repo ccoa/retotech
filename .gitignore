@@ -1,0 +1,6 @@
+# retotech
+
+target/
+.settings/
+.project
+.classpath
